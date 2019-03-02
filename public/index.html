@@ -3,15 +3,31 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="author" content="Max Chou">
+    <meta name="keywords" content="Max Chou, Max, Yi-Hsun, 周奕勳, Silicon Trip">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <link rel="icon" href="<%= BASE_URL %>favicon.ico">
-    <title>personal_website</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/components/accordion.min.css" />
+    <title>Max "Yi-Hsun" Chou</title>
+    <meta property="og:title" content="Max 'Yi-Hsun' Chou" />
+    <meta property="og:url" content="https://maxchou.dev/" />
   </head>
   <body>
     <noscript>
-      <strong>We're sorry but personal_website doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+      <strong>We're sorry but this website doesn't work properly without JavaScript enabled. Please enable it to continue. Thanks.</strong>
     </noscript>
     <div id="app"></div>
     <!-- built files will be auto injected -->
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/components/accordion.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js"></script>
+
+    <script language='javascript'>
+      // Just init Semantic Ui Component
+      $(document).ready(function(){
+         $('.ui.accordion').accordion()
+      });
+    </script>
+    
   </body>
 </html>
