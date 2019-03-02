@@ -26,6 +26,9 @@
           <a href="https://www.npmjs.com/~maxchou415/" target="_blank">
             <i class="npm icon"></i>
           </a>
+          <a href="https://zh.wikipedia.org/zh-tw/%E5%91%A8%E5%A5%95%E5%8B%B3" target="_blank">
+            <i class="wikipedia w icon"></i>
+          </a>
           <a href="mailto:maxchou415+website@gmail.com" target="_blank">
             <i class="envelope icon"></i>
           </a>

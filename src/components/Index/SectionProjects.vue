@@ -89,7 +89,7 @@
             <a>Open Source Tool</a>
           </div>
           <div class="description">
-            Most of apartment in Taiwan has intercom for communicate with someone who at the Lobby. They do go with remote door open function; A button located on intercom. But They can not trigger the function by internet, so you can not open the door everywhere, even not at home.
+            Most of apartment in Taiwan has intercom for communicate with someone who at the Lobby. They do go with remote door open function; A button located on intercom. But They can not trigger the function by internet, so you can not open the door everywhere, even at home.
           </div>
         </div>
         <div class="extra content">
