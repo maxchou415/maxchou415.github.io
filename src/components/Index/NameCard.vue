@@ -29,11 +29,22 @@
           <a href="https://zh.wikipedia.org/zh-tw/%E5%91%A8%E5%A5%95%E5%8B%B3" target="_blank">
             <i class="wikipedia w icon"></i>
           </a>
+          <a href="https://medium.com/@maxchou415" target="_blank">
+            <i class="medium icon"></i>
+          </a>
           <a href="mailto:maxchou415+website@gmail.com" target="_blank">
             <i class="envelope icon"></i>
           </a>
         </h2>
       </div>
+       <div class="extra content">
+          <i class="map marker alternate icon"></i>
+          San Francisco, CA
+       </div>
+       <div class="extra content">
+          <i class="briefcase icon"></i>
+          Looking for opportunities
+       </div>
     </div>
   </div>
 </template>

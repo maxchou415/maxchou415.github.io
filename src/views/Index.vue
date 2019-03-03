@@ -9,6 +9,14 @@
         </div>
         
         <Menu />
+
+        <div class="space">
+          <p>&nbsp;</p>
+        </div>
+
+        <div class="ui container">
+          Last modified: Sun, 3 Mar 2019 06:05:08 +0000
+        </div>
       </div>
     </div>
     <div class="ui twelve wide column">
