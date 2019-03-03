@@ -15,7 +15,9 @@
         </div>
 
         <div class="ui container">
-          Last modified: Sun, 3 Mar 2019 06:05:08 +0000
+          <div class="ui segment">
+            Last modified: Sun, 3 Mar 2019 06:05:08 +0000
+          </div>
         </div>
       </div>
     </div>
