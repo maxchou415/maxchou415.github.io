@@ -109,7 +109,7 @@
         <div class="content">
           <div class="header">CKHC Sheet Management Platform</div>
           <div class="meta">
-            <a>Open Source Tool</a>
+            <a>Open Source Project</a>
           </div>
           <div class="description">
             Sheet management platform of Chien Kuo High School Harmonica Club.
