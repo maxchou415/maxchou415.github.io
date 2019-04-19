@@ -32,7 +32,7 @@
           <a href="https://medium.com/@maxchou415" target="_blank">
             <i class="medium icon"></i>
           </a>
-          <a href="mailto:maxchou415+website@gmail.com" target="_blank">
+          <a href="mailto:me@maxchou.dev" target="_blank">
             <i class="envelope icon"></i>
           </a>
           <div class="ui divider"></div>
