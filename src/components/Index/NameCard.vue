@@ -35,6 +35,13 @@
           <a href="mailto:maxchou415+website@gmail.com" target="_blank">
             <i class="envelope icon"></i>
           </a>
+          <div class="ui divider"></div>
+          <a href="https://paypal.me/maxchou" target="_blank">
+            <i class="paypal icon"></i>
+          </a>
+          <a href="bitcoin:3HsD1Uko33663yfvAoEtmUeQMthMgnGZBf" target="_blank">
+            <i class="bitcoin icon"></i>
+          </a>
         </h2>
       </div>
        <div class="extra content">
