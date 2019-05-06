@@ -1,29 +1,5 @@
-# personal_website
+# Max's Personal Website
 
-## Project setup
-```
-npm install
-```
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4783d21b-16e6-4ef0-9845-1fccc01651a8/deploy-status)](https://app.netlify.com/sites/maxchou/deploys)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Based on Vue 3 and Semantic UI.
