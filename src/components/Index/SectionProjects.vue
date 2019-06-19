@@ -124,6 +124,29 @@
           </span>
         </div>
       </div>
+
+      <div class="card">
+        <div class="image">
+          <img src="@/assets/han_filter.png">
+        </div>
+        <div class="content">
+          <div class="header">hanKuoYu-Filter</div>
+          <div class="meta">
+            <a>Open Source Project</a>
+          </div>
+          <div class="description">
+            The Chrome Extension to hide any post which is include "HanKuoYu" on Facebook.
+          </div>
+        </div>
+        <div class="extra content">
+          <span class="left floated">
+            2019
+          </span>
+          <span class="right floated">
+            <a class="mini ui green button" href="https://github.com/maxchou415/hanKuoYu-Filter" target="_blank">Go</a>
+          </span>
+        </div>
+      </div>
     </div>
   </div>
 </template>
