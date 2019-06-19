@@ -2,7 +2,7 @@
   <div>
     <div class="ui card grid container">
       <div class="image">
-        <img src="https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.0-9/51513450_2290389740991337_5739998017558151168_n.jpg?_nc_cat=101&_nc_ht=scontent.ftpe8-2.fna&oh=d4ecfbff427e578d9efbc80356b9d641&oe=5CDA9EBF">
+        <img src="@/assets/profile_photo.jpg">
       </div>
       <div class="content">
         <a class="header">Max Yi-Hsun Chou</a>
