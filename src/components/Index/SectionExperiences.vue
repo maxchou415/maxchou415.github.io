@@ -5,6 +5,16 @@
     <div class="ui styled fluid accordion container">
       <div class="title">
         <i class="dropdown icon"></i>
+        ViewSonic - Software Engineer
+      </div>
+      <div class="content">
+        <p class="transition hidden">
+          I am work for Software Solution Integration team, mostly focusing on develop company-owned Learning management system (LMS) and integrate with third-party LMS.
+        </p>
+      </div>
+
+      <div class="title">
+        <i class="dropdown icon"></i>
         WeMo Scooter - Software Engineer
       </div>
       <div class="content">
