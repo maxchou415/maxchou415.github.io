@@ -4,17 +4,19 @@
 
     <div class="ui card grid container">
       <div class="ui segment">
-        <div class="ui internally grid">
+        <div class="ui relaxed grid">
           <div class="row">
-            <div class="two wide column">
+            <div class="three wide column">
               <div class="ui fluid image">
                 <img
+                  id="school_logo"
+                  class="ui image centered"
                   src="@/assets/logo_uol.png"
                   alt="University of London Logo"
                 />
               </div>
             </div>
-            <div class="ten wide column">
+            <div class="twelve wide column">
               <h3 class="title">University of London, 2020 - Present</h3>
               <div class="content">
                 BSc Computer Science
@@ -34,4 +36,12 @@ export default {
 </script>
 
 <style>
+#school_logo {
+  width: 50%;
+}
+@media only screen and (max-width: 600px) {
+  #school_logo {
+  width: 100%;
+}
+}
 </style>
