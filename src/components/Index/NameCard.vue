@@ -52,6 +52,10 @@
           <i class="briefcase icon"></i>
           Looking for opportunities
        </div>
+       <div class="extra content">
+          <i class="university icon"></i>
+          University of London
+       </div>
     </div>
   </div>
 </template>
