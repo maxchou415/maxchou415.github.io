@@ -57,6 +57,12 @@
         <p>&nbsp;</p>
       </div>
 
+      <SectionEducations />
+
+      <div class="space">
+        <p>&nbsp;</p>
+      </div>
+
       <SectionProjects />
     </div>
   </div>
@@ -69,6 +75,7 @@ import Menu from '@/components/Index/Menu'
 // Sections
 import SectionAbout from '@/components/Index/SectionAbout'
 import SectionExperiences from '@/components/Index/SectionExperiences'
+import SectionEducations from '@/components/Index/SectionEducations'
 import SectionProjects from '@/components/Index/SectionProjects'
 
 export default {
@@ -79,6 +86,7 @@ export default {
 
     SectionAbout,
     SectionExperiences,
+    SectionEducations,
     SectionProjects
   }
 }
