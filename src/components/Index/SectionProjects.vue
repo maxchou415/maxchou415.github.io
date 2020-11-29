@@ -14,7 +14,7 @@
             <a>Startup</a>
           </div>
           <div class="description">
-            Mochai is the first Traditional Chinese Medicine (TCM) analytics platform leveraging machine learning technology that connects consumers and suppliers in the world. 
+            Mochai is the first Traditional Chinese Medicine (TCM) analytics platform leveraging machine learning technology that connects consumers and suppliers in the world.
           </div>
         </div>
         <div class="extra content">
@@ -50,7 +50,7 @@
         </div>
       </div>
     </div>
-    
+
     <h3>Open Source Project</h3>
     <div class="ui link doubling stackable cards">
       <div class="card">
